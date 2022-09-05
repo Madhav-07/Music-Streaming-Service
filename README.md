@@ -1,5 +1,5 @@
 # Music-Streaming-Service
-Instructions to Run Code:
+## Instructions to Run Code:
 In MySQL Command Prompt run the following commands:
 a) create database music_streaming_service;
 b) use music_streaming_service

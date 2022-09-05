@@ -1,7 +1,7 @@
 # Music-Streaming-Service
 ## Instructions to Run Code:
 ### In MySQL Command Prompt run the following commands:
-a) create database music_streaming_service;
+a) create database music_streaming_service
 b) use music_streaming_service
 c) source <folder-pathname>/Create.sql
 d) source <folder-pathname>/Alter.sql
@@ -14,5 +14,5 @@ a) Update appropriate mysql username and password
 a) export CLASSPATH = ‘<pathname-of-jar-file>/mysqlconnector-java-8.0.18.jar:.’
 b) javac music_streaming_service.java
 c) java music_streaming_service
-
+  
 ## Now, you can use the menu-driven application of music_streaming_service

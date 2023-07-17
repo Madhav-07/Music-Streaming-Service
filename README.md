@@ -8,7 +8,7 @@
 5. source <folder-pathname>/Insert.sql
 
 ### In music_streaming_music.java, change the following:
-1. Update appropriate mysql username and password
+1. Update appropriate mysql username and password in JDBC program
 
 ### In Ubuntu Terminal run the following commands:
 1. export CLASSPATH = ‘<pathname-of-jar-file>/mysqlconnector-java-8.0.18.jar:.’
